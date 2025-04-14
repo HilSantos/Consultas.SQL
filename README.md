@@ -1,4 +1,4 @@
-# Consultas.sql
+# Consultas.SQL
 Consultas dos mais variados tipos e um exercicio
 
 --Consultas simples:
